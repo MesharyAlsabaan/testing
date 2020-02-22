@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe4b6c35-f4ca-46bb-8271-33e4b352986c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xe0bZagDuhLf1FV7K2fiSQMlgd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Node.js.backend.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="backend.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/backend.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.bin/www" />
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.backend.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.backend.js" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe4b6c35-f4ca-46bb-8271-33e4b352986c" name="Default Changelist" comment="" />
+      <created>1581391324931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581391324931</updated>
+      <workItem from="1581391355540" duration="13424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="335" y="63" key="#bin/www" timestamp="1581391656942">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="335" y="63" key="#bin/www/0.23.1280.732@0.23.1280.732" timestamp="1581391656942" />
+    <state x="104" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581391588858">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="104" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.732@0.23.1280.732" timestamp="1581391588858" />
+    <state width="1239" height="169" key="GridCell.Tab.0.bottom" timestamp="1582400012556">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1239" height="169" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1581444669687" />
+    <state width="1239" height="169" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1582400012556" />
+    <state width="1239" height="169" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1582374320059" />
+    <state width="1239" height="169" key="GridCell.Tab.0.center" timestamp="1582400012554">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1239" height="169" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1581444669686" />
+    <state width="1239" height="169" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1582400012554" />
+    <state width="1239" height="169" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1582374320059" />
+    <state width="1239" height="169" key="GridCell.Tab.0.left" timestamp="1582400012554">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1239" height="169" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1581444669685" />
+    <state width="1239" height="169" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1582400012554" />
+    <state width="1239" height="169" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1582374320058" />
+    <state width="1239" height="169" key="GridCell.Tab.0.right" timestamp="1582400012555">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1239" height="169" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1581444669686" />
+    <state width="1239" height="169" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1582400012555" />
+    <state width="1239" height="169" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1582374320059" />
+    <state x="298" y="25" width="683" height="729" key="find.popup" timestamp="1582400000436">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="298" y="25" width="683" height="729" key="find.popup/0.23.1280.737@0.23.1280.737" timestamp="1582400000436" />
+  </component>
+</project>
